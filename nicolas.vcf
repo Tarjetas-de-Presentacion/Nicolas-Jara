@@ -1,1 +1,12 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Nicolás Jara Neira
+N:Jara Neira;Nicolás;;
+ORG: Particular
+TITLE:Médico General
+TEL;TYPE=CELL,VOICE:+56973275969
+EMAIL;TYPE=INTERNET,WORK:nicolas.jara.neira11@outlook.com
+EMAIL;TYPE=INTERNET,WORK:nico.jara.neira@gmail.com
+URL;TYPE=WORK:https://facultades.unab.cl/medicina/
+URL;TYPE=HOME:https://www.linkedin.com/in/nicolas-jara-neira/
+END:VCARD
